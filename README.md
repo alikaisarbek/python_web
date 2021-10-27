@@ -9,7 +9,7 @@ pip install sqlalchemy
 pip install pyjwt
 ```
 ## Usage
-app.config['SQLALCHEMY_DATABASE_URI'] = 'postgresql://postgres:9666@localhost:5432/postgres2'
+app.config['SQLALCHEMY_DATABASE_URI'] = 'postgresql://postgres:ali123@localhost:5432/python'
 ## Examples
 ```bash
 Running on http://127.0.0.1:5000/ 
